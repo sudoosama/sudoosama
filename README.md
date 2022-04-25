@@ -4,25 +4,28 @@
 <a href="https://twitter.com/sudoosama" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Hassan Osama" height="20" width="20" /></a>
 </p>
 
-Hi I'm Osama. I'm a Flutter Developer who is passionate about making open-source projects, creating technology to elevate people, and building community.
+Hi 👋 My name is Hassan Osama
+============================
 
-❤️ Support my open source projects:
+Mobile Application Developer
+--------------------
 
+Forward-thinking Software Engineer with background working productively in dynamic environments. Fluent in Flutter & Dart programming languages used to develop software within the entrepreneurial ecosystem. Proud team player focused on achieving project objectives with speed and accuracy.
 
-<!--
-**elangosundar/elangosundar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* ✉️  You can contact me at [hassanosama16b@gmail.com](mailto:hassanosama16b@gmail.com)
 
-Here are some ideas to get you started:
+### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+ <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" width="36" height="36" alt="Flutter" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+### Socials
+
+<p align="left"> 
+	<a href="https://www.linkedin.com/in/sudoosama" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 
 <p align="center">
 	<img src=https://github-readme-stats.vercel.app/api?username=sudoosama&show_icons=true alt=HassanOsama />
