@@ -10,7 +10,7 @@ Forward-thinking Software Engineer with background working productively in dynam
 * ✉️  You can contact me at [hassanosama16b@gmail.com](mailto:hassanosama16b@gmail.com)
 * 🚀  I'm currently working on [Get Licensed](http://www.get-licensed.co.uk/)
 * 🧠  I'm learning Dart core concepts
-* 🤝  I'm open to collaborating on Startup and problem solving projects
+* 🤝  I'm open to collaborating on startup and problem solving projects
 * ⚡  I love to make rich quality application, measuring FPS using DevTools and look over deep performance of application using DevTool
 
 <a href="https://www.twitter.com/sudoosama" target="_blank" rel="noreferrer"><img
