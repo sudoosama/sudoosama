@@ -7,6 +7,7 @@ Flutter Developer
 Forward-thinking Software Engineer with background working productively in dynamic environments. Fluent in Flutter & Dart programming languages used to develop software within the entrepreneurial ecosystem. Proud team player focused on achieving project objectives with speed and accuracy.
 
 * 🖥️  See my portfolio at [sudoosama.github.io](http://sudoosama.github.io)
+* 💡  Now a days building [NicelyShots](https://play.google.com/store/apps/details?id=com.boringdolphin.smartscreenshot&hl=en&gl=US)
 * ✉️  You can contact me at [hassanosama16b@gmail.com](mailto:hassanosama16b@gmail.com)
 * 🚀  I'm currently working on [Get Licensed](http://www.get-licensed.co.uk/)
 * 🧠  I'm learning Dart core concepts
