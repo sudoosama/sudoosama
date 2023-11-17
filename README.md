@@ -8,7 +8,6 @@ Forward-thinking Software Engineer with background working productively in dynam
 
 * 🖥️  See my portfolio at [sudoosama.github.io](http://sudoosama.github.io)
 * ✉️  You can contact me at [hassanosama16b@gmail.com](mailto:hassanosama16b@gmail.com)
-* 🚀  I'm currently working on [Get Licensed](http://www.get-licensed.co.uk/)
 * 🧠  I'm learning Dart core concepts
 * 🤝  I'm open to collaborating on startup and problem solving projects
 * ⚡  I love to make the rich quality applications, look over the deep performance of applications and measure how per-frame screens performing using DevTool
