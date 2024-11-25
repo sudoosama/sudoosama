@@ -1,4 +1,4 @@
-Hi 👋 My name is Hassan Osama
+Hi 👋 I am Hassan Osama
 =============================
 
 Flutter Developer
